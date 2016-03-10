@@ -1,1 +1,1 @@
-# SMN-GC-Content-Calculator
+# SMN-GT-Content-Calculator
